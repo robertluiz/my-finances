@@ -1,2 +1,19 @@
-# my_finances
-My control over personal finances
+# My Finances
+
+My control over personal finances in JS
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Authors
+
+* **Robert Luiz** - *Initial work* - [Robertluiz](https://github.com/robertluiz)
+
+See also the list of [contributors](https://github.com/robertluiz/my-finances/graphs/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
