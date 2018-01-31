@@ -1,0 +1,26 @@
+{
+  "name": "my-finances",
+  "version": "1.0.0",
+  "description": "My control over personal finances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertluiz/my-finances.git"
+  },
+  "keywords": [
+    "js",
+    "react",
+    "nodejs",
+    "webpack",
+    "finances"
+  ],
+  "author": "Robert Luiz <robert.likejs@gmail.com> (https://rmawebworks.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertluiz/my-finances/issues"
+  },
+  "homepage": "https://github.com/robertluiz/my-finances#readme"
+}
